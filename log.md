@@ -10,4 +10,5 @@ of FreeCodeCamp.org Responsive Web Design Certification.
 **Thoughts**  
 I've been dabbling with html and css for a while now. I'm working through the Responsive Web Design Certification mainly as a refresher, and way overdue to start learning JavaScript!
 
+Ok, so I'm a day late with the public commitment on twitter.. the world wont end
 https://twitter.com/bronwyn_v/status/1064082605061140481

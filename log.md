@@ -2,11 +2,12 @@
 
 ### Day 1: Nov 17, Saturday
 
-**Today's Progress**: Completed Introduction to Basic HTML and HTML5 and Introduction to Basic CSS
-of FreeCodeCamp.org Responsive Web Design Certification
+**Today's Progress**:  
+- Completed Introduction to Basic HTML and HTML5 and Introduction to Basic CSS
+of FreeCodeCamp.org Responsive Web Design Certification.  
+- Started Introduction to JavaScript of FreeCodeCamp.org Javascript Algorithms And Data Structures Certification
 
-Started Introduction to JavaScript of FreeCodeCamp.org Javascript Algorithms And Data Structures Certification
-
-**Thoughts** I've been dabbling with html and css for a while now. I'm working through the Responsive Web Design Certification mainly as a refresher, and way overdue to start learning JavaScript!
+**Thoughts**  
+I've been dabbling with html and css for a while now. I'm working through the Responsive Web Design Certification mainly as a refresher, and way overdue to start learning JavaScript!
 
 https://learn.freecodecamp.org/

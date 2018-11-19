@@ -22,6 +22,6 @@ https://twitter.com/bronwyn_v/status/1064082605061140481
 of FreeCodeCamp.org Responsive Web Design Certification.  
 Tried to get a bit more familiar with Git and Github.
 
-**Thoughts**
+**Thoughts**  
 Was looking for excuses not to code. Not sure why, have simply had a busy day. Got over it and got it done! 
 https://twitter.com/bronwyn_v/status/1064377502146195456

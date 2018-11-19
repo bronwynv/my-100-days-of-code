@@ -14,3 +14,14 @@ https://medium.freecodecamp.org/
 
 Ok, so I'm a day late with the public commitment on twitter.. the world wont end
 https://twitter.com/bronwyn_v/status/1064082605061140481
+
+### Day 2: Nov 18, Saturday
+
+**Today's Progress**:  
+- Completed Introduction to the Applied Visual Design Challenges  
+of FreeCodeCamp.org Responsive Web Design Certification.  
+Tried to get a bit more familiar with Git and Github.
+
+**Thoughts**
+Was looking for excuses not to code. Not sure why, have simply had a busy day. Got over it and got it done! 
+https://twitter.com/bronwyn_v/status/1064377502146195456

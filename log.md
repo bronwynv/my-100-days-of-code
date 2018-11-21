@@ -33,6 +33,16 @@ https://twitter.com/bronwyn_v/status/1064377502146195456
 of FreeCodeCamp.org Responsive Web Design Certification.
 
 **Thoughts**  
-Enjoyed today's lessons. Looking forward to starting and completing the CSS Grid lessons and gettings started on the RWD Projects tomorrow
+Enjoyed today's lessons. Looking forward to starting and completing the CSS Grid lessons and gettings started on the RWD Projects tomorrow  
 https://twitter.com/bronwyn_v/status/1064539533511938054
+
+### Day 4: Nov 20, Tuesday
+
+**Today's Progress**:  
+- Completed Introduction to the Grid, and have started the RWD Project - Build a Tribute Page    
+of FreeCodeCamp.org Responsive Web Design Certification.
+
+**Thoughts**  
+Almost forgot to tweet today's progress. Think I tweeted right on midnight. Been a busy day. Got my hour of coding done early, should have tweeted it when I completed it, instead of putting it off. 
+https://twitter.com/bronwyn_v/status/1065107693197819904
 

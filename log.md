@@ -46,3 +46,14 @@ of FreeCodeCamp.org Responsive Web Design Certification.
 Almost forgot to tweet today's progress. Think I tweeted right on midnight. Been a busy day. Got my hour of coding done early, should have tweeted it when I completed it, instead of putting it off. 
 https://twitter.com/bronwyn_v/status/1065107693197819904
 
+### Day 5: Nov 21, Wednesday
+
+**Today's Progress**:  
+- Got better acquainted with Markdown, Git and GitHub. Have almost completed RWD Project - Build a Tribute Page  
+Handy tool/site https://stackedit.io/
+
+**Thoughts**  
+I am still finding GitHub quite confusing. I keep waiting for that light bulb moment where everything becomes clear.
+I need coffee and tomorrow is Thanksgiving!
+https://twitter.com/bronwyn_v/status/1065455846879055873
+

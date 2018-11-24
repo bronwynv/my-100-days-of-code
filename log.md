@@ -57,3 +57,19 @@ I am still finding GitHub quite confusing. I keep waiting for that light bulb mo
 I need coffee and tomorrow is Thanksgiving!
 https://twitter.com/bronwyn_v/status/1065455846879055873
 
+### Nov 22, Thursday
+
+**Today's Progress**:  
+- No coding today. Thanksgiving. Day spent with family!
+
+### Day 6: Nov 22, Friday
+
+**Today's Progress**:  
+- Still finding my way around GitHub. Really not understanding GitHub Pages and how it ties in with projects.  
+Feeling frustrated :confused:
+
+**Thoughts**  
+Completely forgot to log my activity today :disappointed:
+
+
+

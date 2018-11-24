@@ -62,14 +62,14 @@ https://twitter.com/bronwyn_v/status/1065455846879055873
 **Today's Progress**:  
 - No coding today. Thanksgiving. Day spent with family!
 
-### Day 6: Nov 22, Friday
+### Day 6: Nov 23, Friday
 
 **Today's Progress**:  
 - Still finding my way around GitHub. Really not understanding GitHub Pages and how it ties in with projects.  
 Feeling frustrated :confused:
 
 **Thoughts**  
-Completely forgot to log my activity today :disappointed:
+Completely forgot to log my activity yesterday (Nov 23) so logging it in today (Nov 24) :disappointed:
 
 
 

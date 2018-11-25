@@ -71,5 +71,14 @@ Feeling frustrated :confused:
 **Thoughts**  
 Completely forgot to log my activity yesterday (Nov 23) so logging it in today (Nov 24) :disappointed:
 
+### Day 7: Nov 24, Saturday
+
+**Today's Progress**:  
+- Almost completed the RWD Certification.. wahoo
+
+**Thoughts**  
+Enjoying these challenges. Still leaves me with a lot to learn regarding CSS. Cant get the Google's Code Prettify to work correctly.
+https://twitter.com/bronwyn_v/status/1066555356581642240
+
 
 

@@ -80,5 +80,16 @@ Completely forgot to log my activity yesterday (Nov 23) so logging it in today (
 Enjoying these challenges. Still leaves me with a lot to learn regarding CSS. Cant get the Google's Code Prettify to work correctly.
 https://twitter.com/bronwyn_v/status/1066555356581642240
 
+### Day 8: Nov 25, Sunday
+
+**Today's Progress**:  
+- Spent most of the day getting better aquainted with css grid and flexbox
+
+**Thoughts**  
+Had enough of CSS for today!
+https://twitter.com/bronwyn_v/status/1066883341062979584
+
+
+
 
 

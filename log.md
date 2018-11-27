@@ -89,6 +89,16 @@ https://twitter.com/bronwyn_v/status/1066555356581642240
 Had enough of CSS for today!
 https://twitter.com/bronwyn_v/status/1066883341062979584
 
+### Day 9: Nov 26, Monday
+
+**Today's Progress**:  
+- One more RWD project to go. 
+
+**Thoughts**  
+Will upload today's effort tomorrow. I neeeed sleeeeep!
+https://twitter.com/bronwyn_v/status/1067276610875912193
+
+
 
 
 

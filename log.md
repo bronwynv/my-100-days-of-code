@@ -98,6 +98,25 @@ https://twitter.com/bronwyn_v/status/1066883341062979584
 Will upload today's effort tomorrow. I neeeed sleeeeep!
 https://twitter.com/bronwyn_v/status/1067276610875912193
 
+### Day 10: Nov 27, Tuesday
+
+**Today's Progress**:  
+- Still one more RWD project to go. Forgot to update this today. 
+
+**Thoughts**  
+Been doing battle with css all day. Grrr
+No tweet today. 
+
+### Day 11: Nov 28, Tuesday
+
+**Today's Progress**:  
+- Still one more RWD project to go.
+
+**Thoughts**  
+Still been doing battle with CSS. Really unproductive day. Stupid errors, typos that I'm not seeing when
+I check my work. 
+https://twitter.com/bronwyn_v/status/1068005382734430209
+
 
 
 

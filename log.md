@@ -107,7 +107,7 @@ https://twitter.com/bronwyn_v/status/1067276610875912193
 Been doing battle with css all day. Grrr
 No tweet today. 
 
-### Day 11: Nov 28, Tuesday
+### Day 11: Nov 28, Wednesday
 
 **Today's Progress**:  
 - Still one more RWD project to go.
@@ -115,8 +115,25 @@ No tweet today.
 **Thoughts**  
 Still been doing battle with CSS. Really unproductive day. Stupid errors, typos that I'm not seeing when
 I check my work. 
-https://twitter.com/bronwyn_v/status/1068005382734430209
+https://twitter.com/bronwyn_v/status/1068005382734430209 
 
+### Day 12: Nov 29, Thursday
+
+**Today's Progress**:  
+- Working on the last RWD project
+
+**Thoughts** 
+I need to get my coding done earlier in the day. Coding at night when tired does not make for good quality code!
+No tweet this evening
+
+### Day 13: Nov 30, Friday
+
+**Today's Progress**:  
+- Almost complete.. wahoo
+
+**Thoughts** 
+No thoughts today. Will be happy to get this first certificate finished. Then onto JavaScript again
+https://twitter.com/bronwyn_v/status/1068726996467769344
 
 
 

@@ -138,12 +138,12 @@ https://twitter.com/bronwyn_v/status/1068726996467769344
 ### Day 14: Dec 1, Saturday
 
 **Today's Progress**:  
-- Completed the FreeCodeCamp.org RWD Certification
+- Completed the FreeCodeCamp.org RWD Certification  
 https://www.freecodecamp.org/certification/bronwynv/responsive-web-design
 
 **Thoughts** 
 Happy to complete this. Tomorrow I am onto the Javascript Algorithms And Data Structures Certification  
-and back to tackling basic JavaScript
+and back to tackling basic JavaScript  
 https://twitter.com/bronwyn_v/status/1069089020490235904
 
 

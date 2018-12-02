@@ -146,6 +146,10 @@ Happy to complete this. Tomorrow I am onto the Javascript Algorithms And Data St
 and back to tackling basic JavaScript  
 https://twitter.com/bronwyn_v/status/1069089020490235904
 
+Resources:  
+Python Books - The best free Python resources https://pythonbooks.revolunet.com/  
+JS Books - The best free JavaScript resources https://jsbooks.revolunet.com/  
+StackEdit - In browser Markdown editor https://stackedit.io/
 
 
 

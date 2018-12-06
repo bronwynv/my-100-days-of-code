@@ -183,5 +183,8 @@ of it all.
 Not much achieved today. Feel like I am coming down with some soft of cold type bug.
 
 **Thoughts**
-This headache and runny nose needs to vanish.
+This headache and runny nose needs to vanish.  
 https://twitter.com/bronwyn_v/status/1070522824945795072
+
+Resources:  
+Free PDF CSS Visual Dictionary http://www.javascriptteacher.com/free-book.html

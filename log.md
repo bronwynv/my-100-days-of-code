@@ -151,5 +151,37 @@ Python Books - The best free Python resources https://pythonbooks.revolunet.com/
 JS Books - The best free JavaScript resources https://jsbooks.revolunet.com/  
 StackEdit - In browser Markdown editor https://stackedit.io/
 
+### Day 15: Dec 2, Sunday
 
+**Today's Progress**: 
+Completed a number of lessons from FCC Basic JavaScript
 
+**Thoughts**
+Definitely need way more practice.
+
+### Day 16: Dec 3, Monday
+
+**Today's Progress**: 
+Still completing lessons from FCC Basic JavaScript
+
+**Thoughts**
+Need to do a lot more reading up on this to get comfortable with the correct terminology and 'geek speak'  
+of it all.
+
+### Day 17: Dec 4, Tuesday
+
+**Today's Progress**: 
+Approx half way through the lessons from FCC Basic JavaScript
+
+**Thoughts**
+Need to do a lot more reading up on this to get comfortable with the correct terminology and 'geek speak'  
+of it all.
+
+### Day 18: Dec 5, Wednesday
+
+**Today's Progress**: 
+Not much achieved today. Feel like I am coming down with some soft of cold type bug.
+
+**Thoughts**
+This headache and runny nose needs to vanish.
+https://twitter.com/bronwyn_v/status/1070522824945795072

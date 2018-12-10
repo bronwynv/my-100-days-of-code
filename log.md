@@ -188,3 +188,13 @@ https://twitter.com/bronwyn_v/status/1070522824945795072
 
 Resources:  
 Free PDF CSS Visual Dictionary http://www.javascriptteacher.com/free-book.html
+
+### Day 19: Dec 9, Sunday
+
+**Today's Progress**: 
+Completed the FCC Intro to Regex Challenges
+
+**Thoughts**
+Still not feeling great, very achey and sore throat. At least headache and runny nose has gone.
+I need more practice with Regex!
+https://twitter.com/bronwyn_v/status/1071985628236124161

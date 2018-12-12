@@ -198,3 +198,23 @@ Completed the FCC Intro to Regex Challenges
 Still not feeling great, very achey and sore throat. At least headache and runny nose has gone.
 I need more practice with Regex!
 https://twitter.com/bronwyn_v/status/1071985628236124161
+
+### Day 20: Dec 10, Monday
+
+**Today's Progress**: 
+Had no idea I had forgot to update today. I did tweet though :-D
+Still ploughing along with the JS at a very slow pace. 
+
+**Thoughts**
+https://twitter.com/bronwyn_v/status/1072342563812728832
+
+### Day 21: Dec 11, Tuesday
+
+**Today's Progress**: 
+Today I didnt tweet my progress and I missed midnight by moments to update here.
+
+**Thoughts**
+Finding this JS stuff really challenging. Not retaining any of it. 
+Today was another day of coughs, tissues, snotty nose n code :-/
+
+

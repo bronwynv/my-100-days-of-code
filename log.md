@@ -217,4 +217,14 @@ Today I didnt tweet my progress and I missed midnight by moments to update here.
 Finding this JS stuff really challenging. Not retaining any of it. 
 Today was another day of coughs, tissues, snotty nose n code :-/
 
+### Day 22: Dec 12, Wednesday
+
+**Today's Progress**: 
+Have gone back to asbsolute basic with learning Javascript
+Worked through a few chapters of A Smarter Way to Learn Javascript
+
+**Thoughts**
+The repetition seems helpful  with retaining the info. I like how clear the author is with terminology too.  
+https://twitter.com/bronwyn_v/status/1073057849016762368
+
 

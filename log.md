@@ -227,4 +227,14 @@ Worked through a few chapters of A Smarter Way to Learn Javascript
 The repetition seems helpful  with retaining the info. I like how clear the author is with terminology too.  
 https://twitter.com/bronwyn_v/status/1073057849016762368
 
+### Day 23: Dec 13, Thursday
+
+**Today's Progress**: 
+Did a couple more chapters of ASWJS. Installed WAMP and tried setting up SSL for it.  
+SSl is not working, I do not know why :-/ Will troubleshoot tomorrow.
+
+**Thoughts**
+Grrr SSL for virtualhost  
+https://twitter.com/bronwyn_v/status/1073441095252697088
+
 

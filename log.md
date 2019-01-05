@@ -238,3 +238,15 @@ Grrr SSL for virtualhost
 https://twitter.com/bronwyn_v/status/1073441095252697088
 
 
+
+### Day 1: Jan 5, Saturday, 2019
+
+**Today's Progress**: 
+Will update this in a bit, when I have completed my hour of coding for the day.
+
+**Thoughts**
+Happy New Year everyone!
+Been sick with this flu type bug since mid Dec. Every time I start to feel better, it comes back and knocks me out again. I'm recommiting to #100DaysOfCode. Will be starting again from Day 1, since my daily coding stalled when I fell sick in December. 
+https://twitter.com/bronwyn_v/status/1081566732932825088
+
+

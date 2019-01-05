@@ -238,8 +238,8 @@ Grrr SSL for virtualhost
 https://twitter.com/bronwyn_v/status/1073441095252697088
 
 
-
-### Day 1: Jan 5, Saturday, 2019
+### 2019 - Happy New Year!
+### Day 1: Jan 5, Saturday
 
 **Today's Progress**: 
 Will update this in a bit, when I have completed my hour of coding for the day.

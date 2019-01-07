@@ -250,3 +250,12 @@ Been sick with this flu type bug since mid Dec. Every time I start to feel bette
 https://twitter.com/bronwyn_v/status/1081566732932825088  
 https://twitter.com/bronwyn_v/status/1081603649992884224
 
+### Day 2: Jan 6, Sunday
+
+**Today's Progress**: 
+Covered Math Exp. unfamiliar operators and eliminating ambiguity, concatenating text strings, and prompts. 
+
+**Thoughts**
+Dayquil flu capsules saved me today!  
+https://twitter.com/bronwyn_v/status/1082133060592766977
+

@@ -259,3 +259,13 @@ Covered Math Exp. unfamiliar operators and eliminating ambiguity, concatenating 
 Dayquil flu capsules saved me today!  
 https://twitter.com/bronwyn_v/status/1082133060592766977
 
+### Day 3: Jan 7, Monday
+
+**Today's Progress**: 
+Realized this anoon, that i completely forgot to post an update yesterday, so am adding in today for yesterday. Covered if statements, comparison operators, if..else & else if statements, testing sets of conditions, and if statements nested.
+
+**Thoughts**
+Really need to watch my typing. Lot of "silly", unavoidable coding errors due to typos. 
+https://twitter.com/bronwyn_v/status/1082716165112242177
+
+

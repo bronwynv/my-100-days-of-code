@@ -277,4 +277,18 @@ Covered arrays, adding & removing elements from arrays, and removing, inserting,
 Slice and splice is really doing my head in :-/  
 https://twitter.com/bronwyn_v/status/1082827464496345088
 
+### Day 5: Jan 9, Wednesday
+
+**Today's Progress**: 
+Covered for loops, for loops: flags, Booleans, array length, break, and nested for loops. 
+
+**Thoughts**
+I think tomorrow will possibly be spent revising and practising what i have learnt over these past 5 days. 
+https://twitter.com/bronwyn_v/status/1083040112555032576  
+
+Couple of handy learning resources:
+https://learnjavascript.online/  
+https://exercism.io/
+
+
 

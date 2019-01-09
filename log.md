@@ -268,4 +268,13 @@ Realized this anoon, that i completely forgot to post an update yesterday, so am
 Really need to watch my typing. Lot of "silly", unavoidable coding errors due to typos. 
 https://twitter.com/bronwyn_v/status/1082716165112242177
 
+### Day 4: Jan 8, Tuesday
+
+**Today's Progress**: 
+Covered arrays, adding & removing elements from arrays, and removing, inserting, and extracting elements from arrays. 
+
+**Thoughts**
+Slice and splice is really doing my head in :-/
+https://twitter.com/bronwyn_v/status/1082716165112242177
+
 

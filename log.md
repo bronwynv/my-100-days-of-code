@@ -286,7 +286,7 @@ Covered for loops, for loops: flags, Booleans, array length, break, and nested f
 I think tomorrow will possibly be spent revising and practising what i have learnt over these past 5 days. 
 https://twitter.com/bronwyn_v/status/1083040112555032576  
 
-Couple of handy learning resources:
+Couple of handy learning resources:  
 https://learnjavascript.online/  
 https://exercism.io/
 

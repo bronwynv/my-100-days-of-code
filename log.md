@@ -274,7 +274,7 @@ https://twitter.com/bronwyn_v/status/1082716165112242177
 Covered arrays, adding & removing elements from arrays, and removing, inserting, and extracting elements from arrays. 
 
 **Thoughts**
-Slice and splice is really doing my head in :-/
-https://twitter.com/bronwyn_v/status/1082716165112242177
+Slice and splice is really doing my head in :-/  
+https://twitter.com/bronwyn_v/status/1082827464496345088
 
 

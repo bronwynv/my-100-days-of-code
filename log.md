@@ -290,5 +290,11 @@ Couple of handy learning resources:
 https://learnjavascript.online/  
 https://exercism.io/
 
+### Day 6: Jan 10, Thursday
 
+**Today's Progress**: 
+Spent the day reviewing the past few days of exercises I completed. 
 
+**Thoughts**
+Bits and pieces are starting to slowly "stick"
+https://twitter.com/bronwyn_v/status/1083562232003391488

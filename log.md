@@ -298,3 +298,12 @@ Spent the day reviewing the past few days of exercises I completed.
 **Thoughts**
 Bits and pieces are starting to slowly "stick"
 https://twitter.com/bronwyn_v/status/1083562232003391488
+
+### Day 7: Jan 11, Friday
+
+**Today's Progress**: 
+Worked on a WP child theme for a friends website
+
+**Thoughts**
+Almost forgot to tweet today's coding activity
+https://twitter.com/bronwyn_v/status/1083940946025287680

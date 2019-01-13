@@ -305,5 +305,14 @@ https://twitter.com/bronwyn_v/status/1083562232003391488
 Worked on a WP child theme for a friends website
 
 **Thoughts**
-Almost forgot to tweet today's coding activity
+Almost forgot to tweet today's coding activity  
 https://twitter.com/bronwyn_v/status/1083940946025287680
+
+### Day 8: Jan 12, Saturday
+
+**Today's Progress**: 
+Strings: measuring length and extracting parts, finding segments, finding a character at a location, and replacing characters
+
+**Thoughts**
+No thoughts, just tired
+https://twitter.com/bronwyn_v/status/1084279630020952064

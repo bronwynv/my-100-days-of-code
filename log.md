@@ -316,3 +316,20 @@ Strings: measuring length and extracting parts, finding segments, finding a char
 **Thoughts**
 No thoughts, just tired
 https://twitter.com/bronwyn_v/status/1084279630020952064
+
+### Jan 13, Sunday
+
+**Today's Progress**: 
+No coding today. Hubby is sick with flu (thought he had escaped it).
+
+### Day 9: Jan 14, Monday
+
+**Today's Progress**: 
+Today I completed first 3 sections of a Udemy Web Dev course and did some more work on WP child theme for friend's site.
+
+**Thoughts**
+Some things with JS are doing my head in!
+https://twitter.com/bronwyn_v/status/1085031862886641664
+
+
+
